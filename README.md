@@ -1,4 +1,4 @@
-# CRUD = Laravel + Inertia + Vue 3
+# Simple CRUD Example with Laravel, Inertia.js and Vue3
 
 ### Version Information
 
