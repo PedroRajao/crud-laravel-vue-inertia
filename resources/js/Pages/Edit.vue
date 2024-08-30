@@ -22,7 +22,7 @@
         <button type="submit" :disabled="form.processing">Update Post</button>
       </div>      
       <button type="button">
-        <Link href="/"> Voltar </Link>
+        <Link href="/"> Back </Link>
       </button>
     </form>
 

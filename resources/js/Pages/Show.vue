@@ -8,10 +8,10 @@
     </div>
     <br>
     
-    <!-- Voltar -->
+    <!-- Back -->
     <div>
       <button type="button">
-        <Link href="/"> Voltar </Link>
+        <Link href="/"> Back </Link>
       </button>
     </div>
 
