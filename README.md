@@ -1,9 +1,10 @@
-# Simple CRUD Example with Laravel, Inertia.js and Vue3
+# Simple CRUD Example with Laravel, Inertia.js and Vue
 
 ### Version Information
 
 -   Laravel 10
 -   Node 20.14.0
+-   Vue 3
 
 1.  Run node server
 
