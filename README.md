@@ -11,23 +11,21 @@
 1. Fill the .env
 
 2. Run Migrations
-```
-php artisan migrate
-```
+    ```
+    php artisan migrate
+    ```
 
 3. Seed the Database
-```
-php artisan db:seed
-```
+    ```
+    php artisan db:seed
+    ```
 
 4.  Run node server
-
     ```sh
     npm run dev
     ```
 
 5.  Run Laravel Server
-
     ```sh
     php artisan serve
     ```
