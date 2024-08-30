@@ -6,13 +6,27 @@
 -   Node 20.14.0
 -   Vue 3
 
-1.  Run node server
+### Instructions
+
+1. Fill the .env
+
+2. Run Migrations
+```
+php artisan migrate
+```
+
+3. Seed the Database
+```
+php artisan db:seed
+```
+
+4.  Run node server
 
     ```sh
     npm run dev
     ```
 
-2.  Run Laravel Server
+5.  Run Laravel Server
 
     ```sh
     php artisan serve
